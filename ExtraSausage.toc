@@ -12,7 +12,9 @@ Main.lua
 Features\CompactItemTooltip.lua
 Features\StatusText.lua
 Features\BetterLFGFrame.lua
+Features\EditMode.lua
 Features\LootRollFrame.lua
+Features\TotemTimers.lua
 Features\ChatAutoHide.lua
 Features\DamageMeter.lua
 Features\RangeFinder.lua

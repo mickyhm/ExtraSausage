@@ -347,7 +347,7 @@ mod = ESF:Module({
     onChange = function() UpdatePetBindings() end,
 })
 
-ESF:Section("Hide UI Elements", "Mouseover will bring the elements back temporarily.")
+ESF:Section("Hide UI Elements (unless hovered)", "Mouseover will bring the elements back temporarily.")
 
 local function BarCheckbox(key, label, tooltip)
     ESF:Checkbox({

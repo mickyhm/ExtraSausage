@@ -209,7 +209,7 @@ else
 end
 
 mod = ESF:Module({
-    name = "Better LFG Frame", key = "betterLFGFrame",
+    name = "Expand LFG Window", key = "betterLFGFrame",
     desc = "Allows more entries to be shown in the group browser",
     note = "Allows more entries to be shown at once in the group browser.",
     onChange = function(on)
