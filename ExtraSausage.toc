@@ -2,7 +2,7 @@
 ## Title: ExtraSausage
 ## Notes: Quality-of-life tweaks for WoW Forever. Each module can be turned on or off on its own.
 ## Author: mickyhm
-## Version: 0.8.3
+## Version: 0.9.0
 ## X-License: GPL-3.0
 ## IconTexture: Interface\AddOns\ExtraSausage\Textures\ESF_Icon_NoBorder
 ## SavedVariables: ESFDB
